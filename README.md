@@ -66,12 +66,13 @@ https://www.sram.com/globalassets/document-hierarchy/spare-parts/spare-parts-cat
 
 ## maxxis tyre options
 |    PLUS tyre range   |    Size    |    Link   |
-|----------------------|------------|-----------| 
-| Minion FBF           |  27.5x3.8  |           |
-| Minion FRB           |  27.5x3.8  |           |
-| High Roller 2 Plus   |            |           |
-|   MTB tyre range     |            |           |
-|----------------------|------------|-----------|
+|----------------------|------------|------------------------------------------------------| 
+| Minion FBF           |  27.5x3.8  | https://www.maxxis.com/uk/tyre/minion-fbf/           |
+| Minion FBR           |  27.5x3.8  | https://www.maxxis.com/uk/tyre/minion-fbr/           |
+| High Roller 2 Plus   |            | https://www.maxxis.com/uk/tyre/high-roller-ii-plus/  |
+|   MTB tyre range     |            |                                                      |
+|----------------------|------------|------------------------------------------------------|
+|                      |            |                                                      |
 
 
 

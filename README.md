@@ -38,16 +38,10 @@ BOOST format thru axles (12x148 rear, 15x110 front) for greater durability
 
 ## Rear Axle
 
+### Front Wheel
+
+### Rear Wheel
 
 
 
-
-
-
-
-
-
-
-
-### Rear Axle
 

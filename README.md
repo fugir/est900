@@ -10,7 +10,6 @@ notes about decathlon est900 electric mountain bike
 
 ## Front Fork
 Rockshox JUDY fork with 120 mm of travel <br>
-Find out which JUDY fork you have:
 - there should be a serial number on the fork (maybe on the back of the crown)
 
 Rockshox JUDY fork 12cm travel (one of the following models)

@@ -73,7 +73,33 @@ https://www.sram.com/globalassets/document-hierarchy/spare-parts/spare-parts-cat
 
 |   MTB tyre range     |   Size     | Link                                                 |
 |----------------------|------------|------------------------------------------------------|
-| Minion DHF           | 27.5x2.8   | https://www.maxxis.com/uk/tyre/minion-dhf            |                                         | Minion DHR II        | 27.5x2.8   | https://www.maxxis.com/uk/tyre/minion-dhr-ii/        |
+| Minion DHF           | 27.5x2.8   | https://www.maxxis.com/uk/tyre/minion-dhf            |                                        
+| Minion DHR II        | 27.5x2.8   | https://www.maxxis.com/uk/tyre/minion-dhr-ii/          |
+
+Maxxis Rim Width Recommendation
+https://www.maxxis.com/us/wp-content/uploads/sites/13/2022/02/2022-Bicycle-Tech.pdf
+
+| Tire Size   | Wheel Size | Type     | Features     | Weight | Purpose              |
+|-------------|------------|----------|--------------|--------|----------------------|
+| 27.5X2.60   | 27.5       | FOLDABLE | 3CT/EXO+/TR  | 1095   | MOUNTAIN             |
+| 27.5X2.40WT | 27.5       | FOLDABLE | 3CT/EXO+/TR  | 1025   | MOUNTAIN             |
+| 27.5X2.80   | 27.5       | FOLDABLE | 3CT/EXO+/TR  | 1196   | FAT BIKE/PLUS TIRES  |
+| 27.5X2.40WT | 27.5       | FOLDABLE | 3CG/TR/DD    | 1195   | MOUNTAIN             |
+| 27.5X2.40WT | 27.5       | FOLDABLE | EXO/TR       | 949    | MOUNTAIN             |
+| 27.5X2.40WT | 27.5       | FOLDABLE | 3CG/EXO/TR   | 980    | MOUNTAIN             |
+| 27.5X2.30   | 27.5       | FOLDABLE | 3CT/EXO/TR   | 878    | MOUNTAIN             |
+| 27.5X2.30   | 27.5       | FOLDABLE | EXO/TR       | 880    | MOUNTAIN             |
+| 27.5X2.30   | 27.5       | FOLDABLE | 3CT/TR/DD    | 1101   | MOUNTAIN             |
+| 27.5X2.40WT | 27.5       | FOLDABLE | EXO/TR       | 965    | MOUNTAIN             |
+| 27.5X2.40WT | 27.5       | FOLDABLE | 3CT/EXO/TR   | 960    | MOUNTAIN             |
+| 27.5X2.40WT | 27.5       | FOLDABLE | 3CT/TR/DD    | 1186   | MOUNTAIN             |
+| 27.5X2.40WT | 27.5       | FOLDABLE | 3CG/TR/DH    | 1294   | DOWNHILL             |
+| 27.5X2.40WT | 27.5       | WIRE     | 3CG/DH       | 1315   | DOWNHILL             |
+| 27.5X2.40WT | 27.5       | WIRE     | ST/DH        | 1365   | DOWNHILL             |
+| 27.5X2.60   | 27.5       | FOLDABLE | 3CT/EXO/TR   | 980    | MOUNTAIN             |
+| 27.5X2.60   | 27.5       | FOLDABLE | EXO/TR       | 957    | MOUNTAIN             |
+| 27.5X2.80   | 27.5       | FOLDABLE | 3CT/EXO/TR   | 1081   | FAT BIKE/PLUS TIRES  |
+| 27.5X2.80   | 27.5       | FOLDABLE | EXO/TR       |
 
 
 

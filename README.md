@@ -30,16 +30,6 @@ https://www.sram.com/globalassets/document-hierarchy/compatibility-map/suspensio
 https://www.sram.com/globalassets/document-hierarchy/spare-parts/spare-parts-catalog/2022-rockshox-spare-parts-catalog.pdf
 
 
-## front axle information
-- BOOST format through axle (15x110 front) 
-- 00.4318.005.019
-- https://www.lordgunbicycles.co.uk/rock-shox-maxle-stealth-boost-front-15x110-mm-thru-axle
-
-## rear axle information
-- BOOST format through axle (12x148 rear)
-- 
--
-
 ## front wheel information
 - wheel diameter| 27.5+
 - ERTRO| 584x36C
@@ -52,6 +42,10 @@ https://www.sram.com/globalassets/document-hierarchy/spare-parts/spare-parts-cat
 - bearings | sealed cartridge
 - axle diameter | 15x110 boost 
 
+## front axle information
+- BOOST format through axle (15x110 front) 
+- 00.4318.005.019
+- https://www.lordgunbicycles.co.uk/rock-shox-maxle-stealth-boost-front-15x110-mm-thru-axle
 
 ## rear wheel information
 - wheel diameter| 27.5+
@@ -66,6 +60,12 @@ https://www.sram.com/globalassets/document-hierarchy/spare-parts/spare-parts-cat
 - compatibility | shimano/sram cassette
 - axle diameter | 12x148 boost 
 
+
+
+## rear axle information
+- BOOST format through axle (12x148 rear)
+- 
+-
 
 ## maxxis tyre options
 below is a

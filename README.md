@@ -1,5 +1,5 @@
 # est900
-notes about decathlon est900 electric mountain bike
+notes about decathlon est900 electric mountain bike :bike:
 
 ## Frame Sizes
 | Frame Size    | Human Size     | 

@@ -60,15 +60,21 @@ https://www.sram.com/globalassets/document-hierarchy/spare-parts/spare-parts-cat
 - compatibility | shimano/sram cassette
 - axle diameter | 12x148 boost 
 
-
-
 ## rear axle information
 - BOOST format through axle (12x148 rear)
 - 
--
 
 ## maxxis tyre options
-below is a
+|    PLUS tyre range   |    Size    |    Link   |
+|----------------------|------------|-----------| 
+| Minion FBF           |  27.5x3.8  |           |
+| Minion FRB           |  27.5x3.8  |           |
+| High Roller 2 Plus   |            |           |
+|   MTB tyre range     |            |           |
+|----------------------|------------|-----------|
+
+
+
 
 
 

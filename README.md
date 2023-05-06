@@ -30,11 +30,11 @@ https://www.sram.com/globalassets/document-hierarchy/compatibility-map/suspensio
 https://www.sram.com/globalassets/document-hierarchy/spare-parts/spare-parts-catalog/2022-rockshox-spare-parts-catalog.pdf
 
 
-## front axle
-BOOST format through axle (15x110 front) <br>
-'Rock Shox Maxle Stealh Boost front 15x110mm thru axle'
-00.4318.005.019 <br>
-https://www.lordgunbicycles.co.uk/rock-shox-maxle-stealth-boost-front-15x110-mm-thru-axle
+## axle information
+- FRONT AXLE
+- BOOST format through axle (15x110 front) 
+- 00.4318.005.019
+- https://www.lordgunbicycles.co.uk/rock-shox-maxle-stealth-boost-front-15x110-mm-thru-axle
 
 ## rear axle
 BOOST format through axle (12x148 rear) 

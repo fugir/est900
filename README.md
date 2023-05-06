@@ -38,9 +38,47 @@ BOOST format through axle (15x110 front) <br>
 ## Rear Axle
 BOOST format through axle (12x148 rear) 
 
-## Front Wheel Rim
 
-## Rear Wheel Rim
+## Front Wheel Information
+- wheel diameter| 27.5+
+- ERTRO| 584x36C
+- double walled
+- SUNRINGLE DUROC 40
+- spokes| 32
+- spoke length| (277mm left)(278mm right)
+- hub| SRC BOOST 15x110
+- rim strip| tubeless compatible
+- bearings | sealed cartridge
+- axle diameter | 15x110 boost 
+
+
+## Rear Wheel Information
+- wheel diameter| 27.5+
+- ERTRO| 584x36C
+- double walled
+- SUNRINGLE DUROC 40
+- spokes| 32
+- spoke length| (278mm left)(276mm right)
+- hub| SRC BOOST 15x110
+- rim strip| tubeless compatible
+- bearings | sealed cartridge
+- axle diameter | 15x110 boost 
+
+
+## Rear Wheel Information
+- wheel diameter 27.5+
+- ETRTO 584x35C
+- Double Walled
+- SUNRINGLE DUROC 40 RIM
+- Spokes: 32
+- Spoke length (278mm left)(276mm right)
+- One flat spoke for mounting a magnetic speed sensor
+- (rim is tubeless compatible)
+- (bearings are sealed cartridge)
+- (shimano/srm cassette)
+- axle diameter (12x148mm BOOST)
+- disc tightening torque 6Nm
+- cassette tightening torque 40Nm
 
 ## Maxxis Tyre Options
 below is a

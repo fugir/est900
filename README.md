@@ -36,9 +36,9 @@ BOOST format through axle (15x110 front)
 ## Rear Axle
 BOOST format through axle (12x148 rear) 
 
-### Front Wheel
+## Front Wheel Rim
 
-### Rear Wheel
+## Rear Wheel Rim
 
 
 

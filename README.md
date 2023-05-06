@@ -9,8 +9,7 @@ notes about decathlon est900 electric mountain bike
 | large       | 175cm to 184cm   |
 
 ## Front Fork
-Rockshox JUDY fork 12cm travel
-not sure which judy model it is but
+Rockshox JUDY fork 12cm travel (one of the following models)
 | Model            | ROCKSHOX Part Number     | 
 | -----------------|:-------------------------|
 | JUDY             |      FS-JDYS-TK-B1       | 

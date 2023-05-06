@@ -10,9 +10,6 @@ notes about decathlon est900 electric mountain bike
 
 ## Front Fork
 Rockshox JUDY fork with 120 mm of travel <br>
-- a through axle and conical pivot for more durability.
-- pneumatic spring for optimal adjustment based on your weight
-- rebound adjustment and lockout for better control, depending on the terrain.
 
 Rockshox JUDY fork 12cm travel (one of the following models)
 | Model            | ROCKSHOX Part Number     | 
@@ -22,6 +19,9 @@ Rockshox JUDY fork 12cm travel (one of the following models)
 | JUDY GOLD RL     |      FS-JYDF-RL-A3       |
 
 Find out which JUDY fork you have:
+- there should be a serial number on the fork (maybe on the back of the crown)
+- SRAM have a guide about how to find serial numbers on their parts
+https://www.sram.com/globalassets/document-hierarchy/service-manuals/component-serial-number-locator.pdf
 
 #### SRAM Website showing Rockshox forks
 https://www.sram.com/en/rockshox/series/judy?filters=&sort=Relevancy&page=1 '

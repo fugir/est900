@@ -31,9 +31,10 @@ https://www.sram.com/globalassets/document-hierarchy/spare-parts/spare-parts-cat
 
 
 ## Front Axle
-BOOST format thru axles (12x148 rear, 15x110 front) for greater durability
+BOOST format through axle (15x110 front)
 
 ## Rear Axle
+BOOST format through axle (12x148 rear) 
 
 ### Front Wheel
 

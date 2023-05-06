@@ -22,11 +22,9 @@ Find out which JUDY fork you have:
 - there should be a serial number on the fork (maybe on the back of the crown)
 - SRAM have a guide about how to find serial numbers on their parts: <br>
 https://www.sram.com/globalassets/document-hierarchy/service-manuals/component-serial-number-locator.pdf
-
-#### SRAM Website showing Rockshox forks
+- SRAM website shows Rockshox fork range <br>
 https://www.sram.com/en/rockshox/series/judy?filters=&sort=Relevancy&page=1 '
-
-#### SRAM Website tyre compatibility PDF
+- SRAM Website shows tyre compatibility PDF <br>
 https://www.sram.com/globalassets/document-hierarchy/compatibility-map/suspension/gen-6238-model-year-2021-tire-compatibility2.pdf
 
 #### SRAM Spare Parts Catalogue

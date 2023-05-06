@@ -2,11 +2,14 @@
 notes about decathlon est900 electric mountain bike
 
 ### Bike Sizes
-| Frame Size    | Human Size   | 
-| ------------|:---------------|
-| small       | 155cm to 164cm | 
-| medium      | 165cm to 174cm |
-| large       | 175cm to 184cm |
+| Frame Size    | Human Size     | 
+| ------------|:-----------------|
+| small       | 155cm to 164cm   | 
+| medium      | 165cm to 174cm   |
+| large       | 175cm to 184cm   |
+| Front Fork                     |
+|--------------------------------|
+| Rockshox JUDY fork 12cm travel |
 
 ### Front Fork
 Rockshox JUDY fork with 120 mm of travel.

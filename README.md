@@ -64,7 +64,7 @@ BOOST format through axle (12x148 rear)
 - rim strip| tubeless compatible
 - bearings | sealed cartridge
 - compatibility | shimano/sram cassette
-- axle diameter | 15x110 boost 
+- axle diameter | 12x148 boost 
 
 
 ## maxxis tyre options

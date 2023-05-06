@@ -1,14 +1,23 @@
 # est900
 notes about decathlon est900 electric mountain bike
 
-### Spares Part List
+## Bike Sizes
 | Frame Size    | Human Size     | 
 | ------------|:-----------------|
 | small       | 155cm to 164cm   | 
 | medium      | 165cm to 174cm   |
 | large       | 175cm to 184cm   |
-| Front Fork                     |
-| Rockshox JUDY fork 12cm travel |
+
+## Front Fork
+Rockshox JUDY fork 12cm travel
+not sure which judy model it is but
+| Model            | ROCKSHOX Part Number     | 
+| -----------------|:-------------------------|
+| JUDY             |      FS-JDYS-TK-B1       | 
+| JUDY SILVER TK   |      FS-JYDS-TK-A3       |
+| JUDY GOLD RL     |      FS-JYDF-RL-A3       |
+https://www.sram.com/en/rockshox/series/judy?filters=&sort=Relevancy&page=1
+part numbers 
 
 ### Front Fork
 Rockshox JUDY fork with 120 mm of travel.
@@ -19,6 +28,16 @@ This fork has:
 
 ### Front Axle
 BOOST format thru axles (12x148 rear, 15x110 front) for greater durability
+
+
+
+
+
+
+
+
+
+
 
 
 ### Rear Axle

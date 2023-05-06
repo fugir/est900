@@ -42,6 +42,10 @@ BOOST format through axle (12x148 rear)
 
 ## Rear Wheel Rim
 
+## Front Shifter
+
+## Rear Shifter
+
 
 
 

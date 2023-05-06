@@ -20,7 +20,7 @@ Rockshox JUDY fork 12cm travel (one of the following models)
 
 Find out which JUDY fork you have:
 - there should be a serial number on the fork (maybe on the back of the crown)
-- SRAM have a guide about how to find serial numbers on their parts
+- SRAM have a guide about how to find serial numbers on their parts: <br>
 https://www.sram.com/globalassets/document-hierarchy/service-manuals/component-serial-number-locator.pdf
 
 #### SRAM Website showing Rockshox forks

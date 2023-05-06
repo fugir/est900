@@ -15,6 +15,7 @@ Rockshox JUDY fork 12cm travel (one of the following models)
 | JUDY             |      FS-JDYS-TK-B1       | 
 | JUDY SILVER TK   |      FS-JYDS-TK-A3       |
 | JUDY GOLD RL     |      FS-JYDF-RL-A3       |
+
 https://www.sram.com/en/rockshox/series/judy?filters=&sort=Relevancy&page=1
 See this chart with tyre compatability for the Rockshox Fork
 https://www.sram.com/globalassets/document-hierarchy/compatibility-map/suspension/gen-6238-model-year-2021-tire-compatibility2.pdf

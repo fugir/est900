@@ -9,6 +9,12 @@ notes about decathlon est900 electric mountain bike
 | large       | 175cm to 184cm   |
 
 ## Front Fork
+Rockshox JUDY fork with 120 mm of travel.
+This fork has:
+- a through axle and conical pivot for more durability.
+- pneumatic spring for optimal adjustment based on your weight
+- rebound adjustment and lockout for better control, depending on the terrain.
+
 Rockshox JUDY fork 12cm travel (one of the following models)
 | Model            | ROCKSHOX Part Number     | 
 | -----------------|:-------------------------|
@@ -22,11 +28,6 @@ https://www.sram.com/globalassets/document-hierarchy/compatibility-map/suspensio
 part numbers 
 
 ### Front Fork
-Rockshox JUDY fork with 120 mm of travel.
-This fork has:
-- a thru axle and conical pivot for more durability.
-- pneumatic spring for optimal adjustment based on your weight
-- rebound adjustment and lockout for better control, depending on the terrain.
 
 ### Front Axle
 BOOST format thru axles (12x148 rear, 15x110 front) for greater durability

@@ -2,9 +2,9 @@
 notes about decathlon est900 electric mountain bike
 
 ### Bike Sizes
-Small: 1.55 m to 1.64 m
-Medium: between 1.65 m and 1.74 m
-Large: between 1.75 m and 1.84 m
+Small: 1.55 m to 1.64 m \ 
+Medium: between 1.65 m and 1.74 m \
+Large: between 1.75 m and 1.84 m \
 Extra Large: between 1.85 m and 2.00 m
 
 ### Front Fork

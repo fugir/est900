@@ -79,6 +79,8 @@ https://www.sram.com/globalassets/document-hierarchy/spare-parts/spare-parts-cat
 Maxxis Rim Width Recommendation
 https://www.maxxis.com/us/wp-content/uploads/sites/13/2022/02/2022-Bicycle-Tech.pdf
 
+#### DHR 2 tyre options (from maxxis)
+
 | Tire Size   | Wheel Size | Type     | Features     | Weight | Purpose              |
 |-------------|------------|----------|--------------|--------|----------------------|
 | 27.5X2.60   | 27.5       | FOLDABLE | 3CT/EXO+/TR  | 1095   | MOUNTAIN             |

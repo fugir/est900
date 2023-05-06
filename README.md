@@ -23,7 +23,7 @@ Rockshox JUDY fork 12cm travel (one of the following models)
 
 Find out which JUDY fork you have:
 
-#### SRAM Website showing Roxkshox forks
+#### SRAM Website showing Rockshox forks
 https://www.sram.com/en/rockshox/series/judy?filters=&sort=Relevancy&page=1 '
 
 #### SRAM Website tyre compatibility PDF

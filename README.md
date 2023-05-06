@@ -1,7 +1,7 @@
 # est900
 notes about decathlon est900 electric mountain bike
 
-## Bike Sizes
+## Frame Sizes
 | Frame Size    | Human Size     | 
 | ------------|:-----------------|
 | small       | 155cm to 164cm   | 

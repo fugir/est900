@@ -1,5 +1,5 @@
 # est900
-notes about my decathlon est900
+notes about decathlon est900 electric mountain bike
 
 ### Bike Sizes
 S: 1.55 m to 1.64 m

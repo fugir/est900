@@ -63,6 +63,7 @@ BOOST format through axle (12x148 rear)
 - hub| SRC BOOST 15x110
 - rim strip| tubeless compatible
 - bearings | sealed cartridge
+- compatibility | shimano/sram cassette
 - axle diameter | 15x110 boost 
 
 

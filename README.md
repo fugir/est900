@@ -10,7 +10,6 @@ notes about decathlon est900 electric mountain bike
 
 ## Front Fork
 Rockshox JUDY fork with 120 mm of travel <br>
-This fork has:
 - a through axle and conical pivot for more durability.
 - pneumatic spring for optimal adjustment based on your weight
 - rebound adjustment and lockout for better control, depending on the terrain.

@@ -1,14 +1,14 @@
 # est900
 notes about decathlon est900 electric mountain bike :bike:
 
-## Frame Sizes
+## frame sizes
 | Frame Size    | Human Size     | 
 | ------------|:-----------------|
 | small       | 155cm to 164cm   | 
 | medium      | 165cm to 174cm   |
 | large       | 175cm to 184cm   |
 
-## Front Fork
+## front fork
 Rockshox JUDY fork with 120 mm of travel <br>
 - there should be a serial number on the fork (maybe on the back of the crown)
 
@@ -30,17 +30,17 @@ https://www.sram.com/globalassets/document-hierarchy/compatibility-map/suspensio
 https://www.sram.com/globalassets/document-hierarchy/spare-parts/spare-parts-catalog/2022-rockshox-spare-parts-catalog.pdf
 
 
-## Front Axle
+## front axle
 BOOST format through axle (15x110 front) <br>
 'Rock Shox Maxle Stealh Boost front 15x110mm thru axle'
 00.4318.005.019 <br>
 https://www.lordgunbicycles.co.uk/rock-shox-maxle-stealth-boost-front-15x110-mm-thru-axle
 
-## Rear Axle
+## rear axle
 BOOST format through axle (12x148 rear) 
 
 
-## Front Wheel Information
+## front wheel information
 - wheel diameter| 27.5+
 - ERTRO| 584x36C
 - double walled
@@ -53,7 +53,7 @@ BOOST format through axle (12x148 rear)
 - axle diameter | 15x110 boost 
 
 
-## Rear Wheel Information
+## rear wheel information
 - wheel diameter| 27.5+
 - ERTRO| 584x36C
 - double walled

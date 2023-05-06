@@ -66,7 +66,7 @@ BOOST format through axle (12x148 rear)
 - axle diameter | 15x110 boost 
 
 
-## Maxxis Tyre Options
+## maxxis tyre options
 below is a
 
 

@@ -33,10 +33,10 @@ https://www.sram.com/globalassets/document-hierarchy/compatibility-map/suspensio
 https://www.sram.com/globalassets/document-hierarchy/spare-parts/spare-parts-catalog/2022-rockshox-spare-parts-catalog.pdf
 
 
-### Front Fork
-
-### Front Axle
+## Front Axle
 BOOST format thru axles (12x148 rear, 15x110 front) for greater durability
+
+## Rear Axle
 
 
 

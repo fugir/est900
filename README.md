@@ -32,6 +32,8 @@ https://www.sram.com/globalassets/document-hierarchy/spare-parts/spare-parts-cat
 
 ## Front Axle
 BOOST format through axle (15x110 front)
+'Rock Shox Maxle Stealh Boost front 15x110mm thru axle'
+00.4318.005.019
 
 ## Rear Axle
 BOOST format through axle (12x148 rear) 

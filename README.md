@@ -26,8 +26,7 @@ https://www.sram.com/globalassets/document-hierarchy/service-manuals/component-s
 https://www.sram.com/en/rockshox/series/judy?filters=&sort=Relevancy&page=1 '
 - SRAM Website shows tyre compatibility PDF <br>
 https://www.sram.com/globalassets/document-hierarchy/compatibility-map/suspension/gen-6238-model-year-2021-tire-compatibility2.pdf
-
-#### SRAM Spare Parts Catalogue
+- SRAM Website spare parts catalogue <br>
 https://www.sram.com/globalassets/document-hierarchy/spare-parts/spare-parts-catalog/2022-rockshox-spare-parts-catalog.pdf
 
 
